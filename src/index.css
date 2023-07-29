@@ -81,6 +81,7 @@ h1 {
   right: -90%;
   transform-origin: 0 0;
   transform: rotate(269deg);
+  margin-top: 10rem;
 }
 
 .app .bottom {
@@ -93,6 +94,7 @@ h1 {
   border-radius: 12px;
   background: rgba(0,0,0,0.4);
   cursor: pointer;
+  margin-top: 10rem;
 }
 
 .bold {
